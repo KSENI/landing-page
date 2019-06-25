@@ -1,3 +1,3 @@
 # landing-page
-##Demo
+## Demo
 ![](http://g.recordit.co/eIf0bqsGc5.gif)
